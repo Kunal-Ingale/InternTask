@@ -20,6 +20,6 @@ document.getElementById('loginForm').addEventListener('submit',function(e) {
     }
     if (isValid) {
         alert('Form submitted successfully!');
-        // You can add backend integration here
+        
     }
 })
